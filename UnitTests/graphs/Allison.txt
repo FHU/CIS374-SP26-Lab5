@@ -1,0 +1,17 @@
+﻿# names of the nodes
+plants rodents insects deer birds coyote mountainlion 
+
+# edges
+plants rodents
+plants insects
+plants deer
+insects rodents
+insects birds
+rodents birds
+rodents mountainlion
+rodents coyote
+deer mountainlion
+deer coyote
+
+#1 connected components
+# plants to mountainlion is reachable

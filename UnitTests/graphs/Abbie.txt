@@ -1,0 +1,31 @@
+﻿# names of the nodes
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+# edges
+a b
+b c
+c d
+d e
+d f
+e g
+f h
+h i
+i j
+i k
+j l
+k m
+l m
+i m
+m q
+m n
+n p
+q r
+r s
+r t
+t u 
+u v
+u w
+x p
+y z
+
+#3 connected components
+#a to x is reachable

@@ -1,0 +1,23 @@
+﻿# nodes
+rs kg ab ko jr kw rp mq bb ms ec as rb
+
+# edges
+rs kg
+rs ko
+rs bb
+kg ko
+ko jr
+kw rp
+mq ms
+rp mq
+rp bb
+rp ms
+ec as
+ec rb
+as kw
+as ko
+as rs
+
+# 2 connected components
+# ab is NOT connected to ko 
+

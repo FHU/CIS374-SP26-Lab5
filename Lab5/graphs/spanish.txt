@@ -1,0 +1,16 @@
+#nodes
+uno dos tres cuatro cinco seis siete ocho nueve diez
+
+#edges
+uno dos
+dos tres
+tres cuatro
+cuatro cinco
+cinco seis
+seis siete
+siete ocho
+ocho nueve
+nueve diez
+
+#1 connected component
+# uno to diez is reachable 
